@@ -1,8 +1,0 @@
-{
-    "python.pythonPath": "/Users/honda/opt/anaconda3/bin/python",
-    // "python.autoComplete.extraPaths": [
-    //     "~.conda/envs/py3.7/lib/python3.7/site-packages/"
-    // ],
-    "python.jediEnabled": false,
-    // "python.languageServer": "Microsoft"
-}
